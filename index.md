@@ -175,7 +175,7 @@ Display the contact email address set in the configuration file.
   {% endif %}
   for more information.
 </p>
-<p>Information about the <a href="http://tucsonrodeo.com/schedule/">Tucson Rodeo Week 2020</a></p>
+<p>Information about the <a href="http://tucsonrodeo.com/schedule/"><b>Tucson Rodeo Week 2020</b></a></p>
 
 <hr/>
 
