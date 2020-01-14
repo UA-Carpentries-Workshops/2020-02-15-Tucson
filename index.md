@@ -283,7 +283,7 @@ please preview your site before committing, and make sure to run
 	  <u>Resources:</u>
 	  <ul>
 		  <li><a href="{{site.swc_pages}}/shell-novice">Shell Lessons</a></li>
-		  <li><a href="{{site.swc_pages}}/shell-novice/reference.html">Shell Quick Reference</a></li>
+		  <li><a href="{{site.swc_pages}}/shell-novice/reference">Shell Quick Reference</a></li>
 		  <li><a href="http://explainshell.com/" target="_blank"><em>Explain Shell</em> (Parses shell commands and shows docs about the command)</a></li>
 		  <li><a href="http://www.shellcheck.net/" target="_blank"><em>ShellCheck</em> (Identifies bugs in shell scripts)</a></li>
 		  <li><a href="http://man.he.net/" target="_blank"><em>Linux Man Pages Online</em> (Same content as command line man/help pages)</a></li>
@@ -304,7 +304,7 @@ please preview your site before committing, and make sure to run
 	  <u>Resources:</u>
 	  <ul>
 		  <li><a href="{{site.swc_pages}}/git-novice">Git Lessons</a></li>
-		  <li><a href="{{site.swc_pages}}/git-novice/reference/">Git Quick Reference</a></li>
+		  <li><a href="{{site.swc_pages}}/git-novice/reference">Git Quick Reference</a></li>
 		  <li><a href="https://git-scm.com/book/en/v2/Git-in-Other-Environments-Git-in-Bash" target="_blank"><i>Mac/Linux:</i> Integrating Git into your shell prompt</a></li>
 		  <li><a href="https://github.com/magicmonty/bash-git-prompt" target="_blank">An informative and fancy bash prompt for Git users</a></li>
 		  <li><a href="https://education.github.com/pack" target="_blank">Unlimited <em>private</em> repositories for free on Github, <i>while you are a student</i></a></li>
