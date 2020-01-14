@@ -267,15 +267,82 @@ This is one of the places where people frequently make mistakes, so
 please preview your site before committing, and make sure to run
 'tools/check' as well.
 {% endcomment %}
-<h2 id="syllabus">Syllabus</h2>
 
-{% if site.carpentry == "swc" %}
-{% include swc/syllabus.html %}
-{% elsif site.carpentry == "dc" %}
-{% include dc/syllabus.html %}
-{% elsif site.carpentry == "lc" %}
-{% include lc/syllabus.html %}
-{% endif %}
+<h2 id="syllabus">Syllabus & Learning Objectives</h2>
+
+<div class="row">
+  <div class="col-md-6">
+	  <h3 id="syllabus-shell">Take control with the Bash Shell (Command Line/Shell/Unix)</h3>
+    <ul>
+	    <li>Work <em>in</em> vs. work <em>below</em> the GUI</li>
+	    <li>Navigate the shell</li>
+	    <li><code>Find</code>, create, copy, move and delete folders and files</li>
+	    <li>Shell over GUI: Command history and tab completion</li>
+	    <li>Connect commands into workflows: pipes and redirection</li>
+	    <li>Automate repetitive tasks: loops</li>
+	    <li>Save and run workflows in scripts</li>
+	  </ul>
+	  <u>Resources:</u>
+	  <ul>
+		  <li><a href="{{site.swc_pages}}/shell-novice">Shell Lessons</a></li>
+		  <li><a href="{{site.swc_pages}}/shell-novice/reference.html">Shell Quick Reference</a></li>
+		  <li><a href="http://explainshell.com/" target="_blank"><em>Explain Shell</em> (Parses shell commands and shows docs about the command)</a></li>
+		  <li><a href="http://www.shellcheck.net/" target="_blank"><em>ShellCheck</em> (Identifies bugs in shell scripts)</a></li>
+		  <li><a href="http://man.he.net/" target="_blank"><em>Linux Man Pages Online</em> (Same content as command line man/help pages)</a></li>
+	  </ul>
+  </div>
+
+  <div class="col-md-6">
+	  <h3 id="syllabus-git">Collaborate with git/GitHub</h3>
+    <ul>
+	    <li>Access a repository and pull files</li>
+	    <li>Create a repository</li>
+	    <li>Record changes: <code>add</code>, <code>commit</code>, ...</li>
+	    <li>View changes: <code>status</code>, <code>diff</code>, ...</li>
+	    <li>Ignore files</li>
+	    <li>Work on the web: <code>clone</code>, <code>pull</code>, <code>push</code>, ...</li>
+	    <li>Resolve conflicts</li>
+	  </ul>
+	  <u>Resources:</u>
+	  <ul>
+		  <li><a href="{{site.swc_pages}}/git-novice">Git Lessons</a></li>
+		  <li><a href="{{site.swc_pages}}/git-novice/reference/">Git Quick Reference</a></li>
+		  <li><a href="https://git-scm.com/book/en/v2/Git-in-Other-Environments-Git-in-Bash" target="_blank"><i>Mac/Linux:</i> Integrating Git into your shell prompt</a></li>
+		  <li><a href="https://github.com/magicmonty/bash-git-prompt" target="_blank">An informative and fancy bash prompt for Git users</a></li>
+		  <li><a href="https://education.github.com/pack" target="_blank">Unlimited <em>private</em> repositories for free on Github, <i>while you are a student</i></a></li>
+		  <li><a href="https://git-annex.branchable.com/" target="_blank">Git for Archiving Data</a></li>
+	  </ul>
+  </div>
+
+</div>
+
+<div class="row">
+<div class="col-md-6">
+    <h3 id="syllabus-python">Analyse scientific data with Python</h3>
+    <ul>
+      <li>Use libraries</li>
+      <li>Work with arrays</li>
+      <li>Read and plot data</li>
+      <li>Create and use functions</li>
+      <li>Use loops and conditionals</li>
+      <li>Use Python from the command line</li>
+      <li>Defensive programming</li>
+    </ul>
+	  <u>Resources:</u>
+	  <ul>
+		  <li><a href="{{site.swc_pages}}/python-novice-gapminder">Python Lessons</a></li>
+		  <li><a href="{{site.swc_pages}}/python-novice-gapminder/reference/">Python Quick Reference</a></li>
+                  <li><a href="https://www.codecademy.com/learn/python" target="_blank">Codecademy: Interactive Python practice lessons</a></li>
+		  <li><a href="http://rosalind.info/problems/list-view/?location=python-village" target="_blank">Rosalind Python Bioinformatics Practice</a></li>
+		  <li><a href="https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook#gs.mz7KeNQ" target="_blank">Jupyter Notebook tutorial</a></li>
+		  <li><a href="https://plot.ly/python/" target="_blank">Interactive plotting with Plotly (available for R and for Python)</a></li>
+
+
+    </ul>
+  </div>
+</div>
+
+<p>Syllabus subject to change if necessary.</p>
 
 <hr/>
 
