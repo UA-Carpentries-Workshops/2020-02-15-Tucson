@@ -205,7 +205,7 @@ to match your plans.  You may also want to change 'Day 1' and 'Day
       <tr> <td>10:30</td> <td>Break</td> </tr>
       <tr> <td>10:45</td> <td> <a href="https://github.com/UA-Carpentries-Workshops/Goat_Path_Git_Lesson" target="_blank">Manage data with git/GitHub</a></td> </tr>
       <tr> <td>12:00</td> <td>Break</td> </tr>
-      <tr> <td>13:00</td> <td><a href="https://github.com/UA-Carpentries-Workshops/2019-02-23-WorkshopResources/blob/master/shell-lessons/3_scripting_intro.md" target="_blank">Analyze data in the Bash Shell </a></td> </tr>
+      <tr> <td>13:00</td> <td>Analyze data in the Bash Shell</td> </tr>
       <tr> <td>14:45</td> <td>Break</td> </tr>
       <tr> <td>15:00</td> <td><a href="https://github.com/UA-Carpentries-Workshops/2019-02-23-WorkshopResources/tree/master/python-lessons" target="_blank">Analyze scientific data with Python </a></td> </a></tr>
       <tr> <td>17:00</td> <td>End of Day</td> </tr>
