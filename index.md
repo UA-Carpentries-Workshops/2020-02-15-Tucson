@@ -201,26 +201,26 @@ to match your plans.  You may also want to change 'Day 1' and 'Day
   <div class="col-md-6">
     <h3>Saturday February 15</h3>
     <table class="table table-striped">
-      <tr> <td>08:30</td> <td><a href="https://github.com/UA-Carpentries-Workshops/2019-02-23-WorkshopResources/blob/master/shell-lessons/1_intro-to-shell.md" target="_blank">Access and navigate the command line / Bash Shell</a></td> </tr>
+      <tr> <td>08:30</td> <td><a href="https://github.com/UA-Carpentries-Workshops/2020_February_Bash_Python/tree/master/shell-lessons" target="_blank">Access and navigate the command line / Bash Shell</a></td> </tr>
       <tr> <td>10:30</td> <td>Coffee Break</td> </tr>
       <tr> <td>10:45</td> <td> <a href="https://github.com/UA-Carpentries-Workshops/Goat_Path_Git_Lesson" target="_blank">Manage data with git/GitHub</a></td> </tr>
       <tr> <td>12:00</td> <td>Lunch Break*</td> </tr>
       <tr> <td>13:00</td> <td>Analyze data in the Bash Shell</td> </tr>
       <tr> <td>14:45</td> <td>Coffee Break</td> </tr>
-      <tr> <td>15:00</td> <td><a href="https://github.com/UA-Carpentries-Workshops/2019-02-23-WorkshopResources/tree/master/python-lessons" target="_blank">Analyze scientific data with Python </a></td> </a></tr>
+      <tr> <td>15:00</td> <td><a href="https://github.com/UA-Carpentries-Workshops/2020_February_Bash_Python/tree/master/python-lessons" target="_blank">Analyze scientific data with Python </a></td> </a></tr>
       <tr> <td>17:00</td> <td>End of Day</td> </tr>
     </table>
   </div>
   <div class="col-md-6">
     <h3>Sunday February 16</h3>
     <table class="table table-striped">
-      <tr> <td>08:30</td>  <td><a href="https://github.com/UA-Carpentries-Workshops/2019-02-23-WorkshopResources/tree/master/python-lessons" target="_blank">Analyze scientific data with Python </a> and <a href="http://swcarpentry.github.io/git-novice/" target="_blank">git/GitHub</a></td> </tr>
+      <tr> <td>08:30</td>  <td><a href="https://github.com/UA-Carpentries-Workshops/2020_February_Bash_Python/tree/master/python-lessons" target="_blank">Analyze scientific data with Python </a> and <a href="http://swcarpentry.github.io/git-novice/" target="_blank">git/GitHub</a></td> </tr>
       <tr> <td>10:30</td>  <td>Coffee Break</td> </tr>
-      <tr> <td>11:00</td>  <td><a href="https://github.com/UA-Carpentries-Workshops/2019-02-23-WorkshopResources/tree/master/python-lessons" target="_blank">Analyze scientific data with Python </a> and <a href="http://swcarpentry.github.io/git-novice/" target="_blank">git/GitHub</a>, cont.</td> </tr>
+      <tr> <td>11:00</td>  <td><a href="https://github.com/UA-Carpentries-Workshops/2020_February_Bash_Python/tree/master/python-lessons" target="_blank">Analyze scientific data with Python </a> and <a href="http://swcarpentry.github.io/git-novice/" target="_blank">git/GitHub</a>, cont.</td> </tr>
       <tr> <td>12:00</td>  <td>Lunch Break*</td> </tr>
-      <tr> <td>13:00</td>  <td><a href="https://github.com/UA-Carpentries-Workshops/2019-02-23-WorkshopResources/tree/master/python-lessons" target="_blank">Analyze scientific data with Python </a> and <a href="http://swcarpentry.github.io/git-novice/" target="_blank">git/GitHub</a>, cont.</td> </tr>
+      <tr> <td>13:00</td>  <td><a href="https://github.com/UA-Carpentries-Workshops/2020_February_Bash_Python/tree/master/python-lessons" target="_blank">Analyze scientific data with Python </a> and <a href="http://swcarpentry.github.io/git-novice/" target="_blank">git/GitHub</a>, cont.</td> </tr>
       <tr> <td>14:45</td>  <td>Coffee Break</td> </tr>
-      <tr> <td>15:00</td>  <td><a href="https://github.com/UA-Carpentries-Workshops/2019-02-23-WorkshopResources/tree/master/python-lessons" target="_blank">Analyze scientific data with Python </a> and <a href="http://swcarpentry.github.io/git-novice/" target="_blank">git/GitHub</a>, cont.</td> </tr>
+      <tr> <td>15:00</td>  <td><a href="https://github.com/UA-Carpentries-Workshops/2020_February_Bash_Python/tree/master/python-lessons" target="_blank">Analyze scientific data with Python </a> and <a href="http://swcarpentry.github.io/git-novice/" target="_blank">git/GitHub</a>, cont.</td> </tr>
       <tr> <td>17:00</td>  <td>End of Day</td> </tr>
     </table>
   </div>
